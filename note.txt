@@ -1,0 +1,7 @@
+ mvn clean install spring-boot:repackage
+
+
+https://www.tutorialspoint.com/apache_activemq/apache_activemq_quick_guide.htm
+
+
+testing pending
